@@ -1,4 +1,5 @@
-Instructions to Run Amazon Bestsellers Web Scraper in Jupyter Notebook
+<h1>Instructions to Run Amazon Bestsellers Web Scraper in Jupyter Notebook</h1>h1>
+
 Step 1: Clone Your Project from GitHub
 Open a terminal or command prompt.
 Use the following command to clone your project repository:
